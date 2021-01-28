@@ -18,8 +18,6 @@
    `giveCompliment` function to the console.
 -----------------------------------------------------------------------------*/
 
-
-
 function giveCompliment(/* TODO parameter(s) go here */) {
   // TODO complete this function
 }
