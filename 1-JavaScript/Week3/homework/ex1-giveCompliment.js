@@ -17,6 +17,9 @@
    Use `console.log` each time to display the return value of the
    `giveCompliment` function to the console.
 -----------------------------------------------------------------------------*/
+
+
+
 function giveCompliment(/* TODO parameter(s) go here */) {
   // TODO complete this function
 }
